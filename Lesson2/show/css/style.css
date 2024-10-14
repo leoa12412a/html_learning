@@ -1,0 +1,17 @@
+th{  
+	background-color:#f19465;
+	width:25vw;
+	height:200px;
+}
+
+td{
+	background-color:#4cbdc1;
+	width:25vw;
+	height:200px;
+	text-align:center;
+}
+.btn1{
+	background-color:#FFD306;
+	color:#336666;
+	border:3px orange double
+}
